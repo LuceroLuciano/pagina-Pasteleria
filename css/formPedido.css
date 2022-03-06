@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: #B21948;
+    color: #F9943B;
+    padding: 10px;
+    position: relative;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+}
+
+.logo {
+    float: left;
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: none;
+}
+
+.titulo {
+    /* #EF94CA  #2A8E2E  #075BAF  #E5E5E5*/
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 25px;
+}
+
+.linkRegresar {
+    text-decoration: none;
+    color: #F9943B;
+}
+
+section {
+    background-image: url(../img/pastelFresa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* opacity: 0.9; */
+}
+
+
+.form-control {
+    opacity: 0.4;
+}
+
+/* .iputCheck {
+   opacity: 0.8px;
+} */
+
+section h2 {
+    color: #B21948;
+    font-size: 20;
+}
+
+label {
+    color:#080808;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #B21948;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 12px;
+}
