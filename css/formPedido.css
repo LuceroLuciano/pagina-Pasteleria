@@ -69,6 +69,21 @@ label {
     font-size: 16px;
 }
 
+#linkVerPedido {
+    background-color: blue;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+    padding: 9px;
+
+}
+
+#linkVerPedido:hover {
+    background-color: rgb(106, 143, 245);
+}
+
 footer {
     background-color: #B21948;
     text-align: center;

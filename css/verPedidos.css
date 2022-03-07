@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-image: url(../img/fondoPastel4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height: 120px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f14501;
+    padding: 16px;
+    opacity: 0.9;
+    font-weight: bold;
+}
+
+/* .titulo h1{
+    background-color: #f5d5ba;
+    opacity: 0.8;
+} */
+
+.logotipo {
+    float: left;
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: none;
+}
+
+a {
+    text-decoration: none;
+    color: #AA1945;
+    font-size: 20px;
+}
+
+section {
+    background-color: #f8afc5;
+}
+
+.primerTabla {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.tabla1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 45px;
+    width: 1000px;
+    text-align: center;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+.tabla1 th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background-color: #AA1945;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+
+.tabla1 td {
+    padding: 8px;
+    background: #E3D8E0;;
+    border-bottom: 1px solid #fff;
+    color: #000;
+    border-top: 1px solid transparent;
+}
+
+.tabla1 th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background-color: #AA1945;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+
+.tabla1 td {
+    padding: 8px;
+    background: #E3D8E0;;
+    border-bottom: 1px solid #fff;
+    color: #000;
+    border-top: 1px solid transparent;
+}
+
+
+h2 {
+    color: #9D521D;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* segunda tabla */
+
+.segundaTabla {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.tabla2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 45px;
+    width: 400px;
+    text-align: center;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+.tabla2 th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background-color: #9D521D;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    text-align: center;
+}
+
+.tabla2 td {
+    padding: 8px;
+    background: #f7be64;;
+    border-bottom: 1px solid #fff;
+    color: #000;
+    border-top: 1px solid transparent;
+}
+
+
+/* tercer tablas */
+
+/* .segundaTabla {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+} */
+
+.tabla3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 45px;
+    width: 400px;
+    text-align: center;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+.tabla3 th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background-color: #9D521D;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    text-align: center;
+}
+
+.tabla3 td {
+    padding: 8px;
+    background: #f7be64;;
+    border-bottom: 1px solid #fff;
+    color: #000;
+    border-top: 1px solid transparent;
+}
+
+
+footer {
+    background-color: #AA1945;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    color: #fff;
+}
